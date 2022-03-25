@@ -1,0 +1,26 @@
+/server/teste/*.csv
+/server/*.log
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+.phpunit.result.cache
+/server/teste/arq.csv
+/server/app.log
+/server/configu.py
+<<<<<<< HEAD
+server/app.log
+/server/__pycache__/
+=======
+server/configu.py
+server/app.log
+>>>>>>> c06ba94ab01fe92613d29693b5fb798d51988485
